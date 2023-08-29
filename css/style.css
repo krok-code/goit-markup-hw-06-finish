@@ -270,7 +270,7 @@ img {
   background-color: var(--navyblue);
   padding: 112px 0;
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-    url(../images/main-banner-mobile-x1.jpg);
+    url(../images/jpg/main-banner-mobile-x1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -283,7 +283,7 @@ img {
 @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
   .main-banner {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/main-banner-mobile-x2.jpg);
+      url(../images/jpg/main-banner-mobile-x2.jpg);
   }
 }
 

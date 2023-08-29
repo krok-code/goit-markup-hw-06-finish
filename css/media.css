@@ -139,13 +139,13 @@
   /* Main banner Section 1 */
   .main-banner {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/main-banner-tablet-x1.jpg);
+      url(../images/jpg/main-banner-tablet-x1.jpg);
   }
 
   @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .main-banner {
       background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(../images/main-banner-tablet-x2.jpg);
+        url(../images/jpg/main-banner-tablet-x2.jpg);
     }
   }
 
@@ -271,14 +271,14 @@
   /* Main banner Section 1 */
   .main-banner {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/main-banner-desktop-x1.jpg);
+      url(../images/jpg/main-banner-desktop-x1.jpg);
     padding: 188px 0;
   }
 
   @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .main-banner {
       background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(../images/main-banner-desktop-x2.jpg);
+        url(../images/jpg/main-banner-desktop-x2.jpg);
     }
   }
 
